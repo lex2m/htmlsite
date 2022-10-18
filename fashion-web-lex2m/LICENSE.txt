@@ -1,0 +1,38 @@
+************************************************************ 
+********
+Bu Þablon Ücretsiz Site Lisansý Altýndadýr
+************************************************************ 
+********
+
+Lisans
+-------
+
+Bir ürünün kullanýmý satýn aldýðýnýz lisansa baðlýdýr. 
+Bir lisans, size öðeyi kiþisel veya ticari projelerinize dahil etmek ve kullanmak için münhasýr olmayan ve devredilemez bir hak verir.
+
+
+Ücretsiz Site Lisansý:
+
+------------------
+CC 3.0 Lex2m için oluþturduðumuz tüm site þablonlarý ABX 4.0 Lisansý altýnda lisanslanmýþtýr, yani þunlarý yapabilirsiniz:
+ - Þablonlarýmýzý hem kiþisel hem de ticari projeler için kullanabilirsiniz.
+ - Bir lisans satýn almadýðýnýz sürece, þablonlarda WebThemez.com'a giden geri baðlantýyý kaldýrmanýza ÝZÝN VERÝLMEZ.
+ - Web sitesini proje ihtiyaçlarýnýza göre güncelleyebilir/deðiþtirebilir/özelleþtirebilirsiniz.
+ - webthemez.com'da bulunan hiçbir dosya için kredi veya sahiplik iddiasýnda bulunamazsýnýz.
+ - webthemez.com'da bulunan dosyalarýn hiçbirini yeniden daðýtamaz, yeniden satamaz, lisanslayamaz veya alt lisansýný veremezsiniz.
+
+
+Tek Site Lisansý:
+--------------------
+ - Tek site lisansý, sizin veya müþteriniz tarafýndan kullanýlmak üzere tek bir ürün oluþturmanýza olanak tanýr.
+ - Oluþturduðunuz eseri kendi amaçlarýnýz için veya müþteriniz için kullanabilirsiniz.
+ - Öðeyi, siz veya müþteriniz tarafýndan yeniden daðýtým veya yeniden satýþ için oluþturulmuþ bir çalýþmaya dahil etmemelisiniz.
+
+ - Öðe yeniden daðýtýlamaz veya yeniden satýlamaz.
+ - 
+Öðe lisanslý bileþenler içeriyorsa, bu bileþenler yalnýzca öðe içinde kullanýlmalýdýr ve bunlarý tek baþýna çýkarmamalý ve kullanmamalýsýnýz.
+ 
+- Öðe, bir GNU Genel Kamu Lisansý'na (GPL) konu olan malzemeler kullanýlarak oluþturulmuþsa, öðeyi kullanýmýnýz, yukarýdaki koþullar yerine GPL'nin koþullarýna tabidir (GPL'nin geçerli olduðu ölçüde).
+
+
+
