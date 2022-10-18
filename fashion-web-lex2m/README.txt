@@ -1,22 +1,22 @@
-Ücretsiz Site Lisansý:
+Ãœcretsiz Site LisansÄ±:
 ------------------
 
-CC 3.0 Lex2m için oluþturduðumuz tüm site þablonlarý, ABX 4.0 Lisansý kapsamýnda lisanslanmýþtýr, yani þunlarý yapabilirsiniz:
- - Þablonlarýmýzý hem kiþisel hem de ticari projeler için kullanabilirsiniz.
- - Bir lisans satýn almadýðýnýz sürece, þablonlarda github.com/lex2m'e giden geri baðlantýyý kaldýrmanýza ÝZÝN VERÝLMEZ.
- - Web sitesini proje ihtiyaçlarýnýza göre güncelleyebilir/deðiþtirebilir/özelleþtirebilirsiniz.
- - github.com/lex2m'de bulunan hiçbir dosya için kredi veya sahiplik iddiasýnda bulunamazsýnýz.
- - github.com/lex2m'de bulunan dosyalarýn hiçbirini yeniden daðýtamaz, yeniden satamaz, lisanslayamaz veya alt lisansýný veremezsiniz.
+CC 3.0 Lex2m iÃ§in oluÅŸturduÄŸumuz tÃ¼m site ÅŸablonlarÄ±, ABX 4.0 LisansÄ± kapsamÄ±nda lisanslanmÄ±ÅŸtÄ±r, yani ÅŸunlarÄ± yapabilirsiniz:
+ - ÅžablonlarÄ±mÄ±zÄ± hem kiÅŸisel hem de ticari projeler iÃ§in kullanabilirsiniz.
+ - Bir lisans satÄ±n almadÄ±ÄŸÄ±nÄ±z sÃ¼rece, ÅŸablonlarda github.com/lex2m'e giden geri baÄŸlantÄ±yÄ± kaldÄ±rmanÄ±za Ä°ZÄ°N VERÄ°LMEZ.
+ - Web sitesini proje ihtiyaÃ§larÄ±nÄ±za gÃ¶re gÃ¼ncelleyebilir/deÄŸiÅŸtirebilir/Ã¶zelleÅŸtirebilirsiniz.
+ - github.com/lex2m'de bulunan hiÃ§bir dosya iÃ§in kredi veya sahiplik iddiasÄ±nda bulunamazsÄ±nÄ±z.
+ - github.com/lex2m'de bulunan dosyalarÄ±n hiÃ§birini yeniden daÄŸÄ±tamaz, yeniden satamaz, lisanslayamaz veya alt lisansÄ±nÄ± veremezsiniz.
 
- - Tamamen Ýngilizce'dir.
+ - Tamamen Ä°ngilizce'dir.
  - Destek yok
- - Php dosyasý yok (iletiþim formu çalýþmýyor)
- - Güncelleme yok
+ - Php dosyasÄ± yok (iletiÅŸim formu Ã§alÄ±ÅŸmÄ±yor)
+ - GÃ¼ncelleme yok
 
 Credits :
 --------- 
 
-=> Design & developed: github.com/lex2m
+=> Design & developed: https://www.github.com/lex2m
 => Fonts : https://www.google.com/fonts
 => Images : https://unsplash.com/ , https://www.pexels.com/ and https://pixabay.com/
 => Carousel : http://owlgraphic.com/owlcarousel/
